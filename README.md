@@ -14,7 +14,7 @@ This project follows a **microservices architecture**, with each component handl
    - Scrapes news stories from multiple online sources.
    - Publishes raw news data to a Kafka topic.
 
-   👉 [Scraper Service Repository](https://github.com/your-username/scraper-service)
+   👉 [Scraper Service Repository](https://github.com/Mustapha-Innocer/scraping-service)
 
 2. **🧠 LLM Processor Service**
    - Subscribes to the raw news topic.
