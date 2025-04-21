@@ -40,7 +40,7 @@ This project follows a **microservices architecture**, with each component handl
 - **Python** (FastAPI, BeautifulSoup, Asycio, etc)
 - **Kafka** for inter-service messaging
 - **PostgreSQL** for storage
-- **LLM Integration** (OpenAI, HuggingFace, etc.)
+- **LLM Integration** (HuggingFace)
 - **Redis** for caching processed news stories
 
 ## 📦 Deployment
