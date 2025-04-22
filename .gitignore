@@ -1,2 +1,5 @@
 llm
 scraping-service
+storage-service
+
+.DS_Store
