@@ -21,19 +21,19 @@ This project follows a **microservices architecture**, with each component handl
    - Summarizes and categorizes each article using LLMs.
    - Publishes processed stories to another Kafka topic.
 
-   👉 [LLM Processor Service Repository](https://github.com/your-username/llm-service)
+   👉 [LLM Processor Service Repository](https://github.com/Mustapha-Innocer/llm-service)
 
 3. **💾 Storage Service**
    - Consumes summarized news from the LLM service.
    - Stores categorized and summarized stories into a structured database.
 
-   👉 [Storage Service Repository](https://github.com/your-username/storage-service)
+   👉 [Storage Service Repository](https://github.com/Mustapha-Innocer/storage-service)
 
 4. **🌐 API Service**
    - Exposes RESTful endpoints to retrieve categorized news from the database.
    - Designed for integration with frontend interfaces.
 
-   👉 [API Service Repository](https://github.com/your-username/api-service)
+   👉 [API Service Repository](https://github.com/Mustapha-Innocer/api-service)
 
 ## 🧱 Tech Stack
 
